@@ -1,0 +1,24 @@
+git --version
+
+git config --global user.name "mehdi"
+
+git config --global user.email "mehdi_57@ymail.com"
+
+cd C:/codeacademy/git
+
+mkdir git_practice
+ 
+$ cd git_practice/
+
+$ git init
+
+$ git add README.txt
+
+$ git commit -m "Add README.txt"
+
+$ git log
+
+$ git remote add origin https://github.com/Mehdi57/git_practice.git
+
+$ git push -u origin master
+
